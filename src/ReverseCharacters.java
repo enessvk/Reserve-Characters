@@ -7,7 +7,7 @@ import datastructures.ArrayStack;
 import java.util.Scanner;
 /**
  *
- * @author kemal
+ * @author Enes Sevik
  */
 public class ReverseCharacters    
 {
@@ -42,7 +42,7 @@ public class ReverseCharacters
       }
       catch (Exception IOException)
 	  {
-	     //System.out.println("Input exception reported");
+	     System.out.println("Input exception reported");
       }
    }
 }

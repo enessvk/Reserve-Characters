@@ -8,7 +8,7 @@ package datastructures.exceptions;
 
 /**
  *
- * @author kemal
+ * @author Enes Sevik
  */
 public class EmptyCollectionException extends RuntimeException{
     public EmptyCollectionException(String collection)
